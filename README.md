@@ -1,4 +1,4 @@
-## DATE : 15.02.2024
+## DATE : 16.02.2024
 ## EXPERIMENT : 01
 
 # Implementation of Univariate Linear Regression
